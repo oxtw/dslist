@@ -4,6 +4,10 @@
 Projeto realizado por um estudo de Java com SpringBoot, onde criei uma API REST para um site de jogos categorizados que contém suas informações com descrições mais curtas, e mais detalhados quando visto separadamente.
 
 
+## Modelo de Domínio
+
+![image](https://github.com/oxtw/dslist/assets/95698812/9fc0d7be-2209-4e23-b65d-11343ed32cf1)
+
 
 ## Documentação da API
 
